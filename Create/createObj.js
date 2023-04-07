@@ -2,7 +2,9 @@ import mongoose from 'mongoose'
 import "../dbConnect.js"
 import userModel from "../models/index.js"
 
-async function insertOne() {
+// create help's to create an object inside the collection
+
+async function create() {
 try {
     let check = await userModel.create({
         "firstName": "Yahiya",
@@ -20,4 +22,4 @@ try {
    
  
     }
-    insertOne()
+    create()

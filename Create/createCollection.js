@@ -2,6 +2,7 @@ import "../dbConnect.js"
 import userModel from "../models/index.js"
 import mongoose from "mongoose";
 
+// To create a collection first we need to create a schema then the model (where we create a collection)
 
 // 1. Creating a Schema
 const mySchema = new mongoose.Schema({
