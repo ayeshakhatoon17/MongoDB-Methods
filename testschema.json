@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Ayesha",
+        "lastName": "KHatoon",
+        "age": 20,
+        "phone": "9704769071",
+        "email": "ayesha@gmail.com",
+        "address": " Hyd"
+    },
+
+    {
+        "firstName": "riyaan",
+        "lastName": "KHatoon",
+        "age": 20,
+        "phone": "9704769070",
+        "email": "riyaan@gmail.com",
+        "address": " Hyd"
+    },
+    {
+        "firstName": "suhail",
+        "lastName": "KHatoon",
+        "age": 20,
+        "phone": "9704769072",
+        "email": "suhail@gmail.com",
+        "address": " Hyd"
+    },
+    {
+        "firstName": "aamina",
+        "lastName": "KHatoon",
+        "age": 20,
+        "phone": "970476922",
+        "email": "aamina@gmail.com",
+        "address": " Hyd"
+    },
+    {
+        "firstName": "Fawaz",
+        "lastName": "KHatoon",
+        "age": 20,
+        "phone": "9704769103",
+        "email":"fawaz@gmail.com",
+        "address": " Hyd"
+    }
+
+
+
+
+]
